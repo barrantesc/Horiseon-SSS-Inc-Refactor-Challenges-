@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* background color at bottom only so should it be on body? */
 body {
     background-color: #d9dcd6;
 }
