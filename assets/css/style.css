@@ -27,6 +27,7 @@ span {
     color: #d9dcd6;
 }
 
+/* Updated to Nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,9 +36,8 @@ header nav {
     font-size: 20px;
 }
 
-/* Seems unnecessary */
 header nav ul {
-    list-style-type: none;
+    list-style-type: none; 
 }
 
 header nav ul li {
@@ -53,8 +53,7 @@ a {
 
 /* Body Style */
 
-
-
+ /* Hero/Content section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -68,17 +67,6 @@ a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-/* Should heading class be here, before the .float? */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .heading {
@@ -101,6 +89,16 @@ a {
 
 p {
     font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Benefit section */
@@ -130,7 +128,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 /* Footer section */
 footer {
