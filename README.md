@@ -10,7 +10,7 @@ A website that offers accessibility to optimize search engines.
 ## Changes
 Consolidated elements, follows sematic structure, functional links, descriptive comments and screenshot of final product. 
 
-! [Mockup of Horizon Final Product] 
+![Mockup of final product] (assets/images/Horiseon MockUp.png)
 
 ## Website
 https://barrantesc.github.io/Horiseon-SSS-Inc-Refractor-Challenges-/
